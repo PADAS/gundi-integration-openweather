@@ -1,2 +1,4 @@
 # Add your integration-specific dependencies here
-stamina>=24.1.0
+httpx==0.24.1
+gundi-client-v2==2.4.0
+respx==0.20.2
