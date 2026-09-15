@@ -1,4 +1,2 @@
 # Add your integration-specific dependencies here
-httpx==0.24.1
-gundi-client-v2==2.4.0
-respx==0.20.2
+respx~=0.22.0  
